@@ -4,7 +4,7 @@ Data Science Master's student at EPFL with a Computer Science bachelor (GPA 5.4/
 
 **Currently:** researching token-efficient inference strategies for LLM agents (Modern NLP) and benchmarking second-order optimizers like AdaFisher for transformer training (Optimization for ML).
 
-**Open to:** 2026 internships in data science, ML/LLMs, or quantitative finance.
+**Open to:** 2026 internships in data science, ML/LLMs, quantitative finance, or software engineering.
 
 ---
 
