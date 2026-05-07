@@ -1,6 +1,6 @@
 ## Hi, I'm Elio 👋
 
-Data Science Master's student at EPFL with a Computer Science bachelor (GPA 5.4/6, top 3%) and a minor in Financial Engineering. Lebanese, based between Lausanne and Beirut. Interested in machine learning, LLMs, and the intersection of data and finance.
+Data Science Master's student at EPFL with a Computer Science bachelor (GPA 5.4/6, top 3%) and a minor in Financial Engineering. Based between Lausanne and Beirut. Interested in machine learning, LLMs, and the intersection of data and finance.
 
 **Currently:** researching token-efficient inference strategies for LLM agents (Modern NLP) and benchmarking second-order optimizers like AdaFisher for transformer training (Optimization for ML).
 
